@@ -1,10 +1,9 @@
 # signinwithfire
 
-A new Flutter application.
+A application which uses firebase authentication for login and registration purpose and using rest api API REF: OPENWEATHERMAP to fetch weather data by city name.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
+You can check the lib folder starting with splash screen and it will direct you to subsequent screens.
 
 A few resources to get you started if this is your first Flutter project:
 

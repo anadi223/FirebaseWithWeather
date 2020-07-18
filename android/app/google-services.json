@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "149355192328",
+    "firebase_url": "https://auth-62b5a.firebaseio.com",
+    "project_id": "auth-62b5a",
+    "storage_bucket": "auth-62b5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149355192328:android:b7d8f624d68dea2c43b1bd",
+        "android_client_info": {
+          "package_name": "com.example.signinwithfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149355192328-i1f1d0nt65bqkuphrj56g1pq0cqeff8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiViM7euMF9R4zMdKmvSne7QAC9RkpVJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149355192328-i1f1d0nt65bqkuphrj56g1pq0cqeff8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
